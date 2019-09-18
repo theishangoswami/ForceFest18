@@ -1,5 +1,8 @@
-# ForceFest'18-CSI-WebEdge
-Repository for CSI's submission for WebEdge in ForceFest'18 (Apeejay School, Sheikh Sarai)
+# Overall : 
+Repository for CSI's submission for WebEdge in ForceFest'18 (Apeejay School, Sheikh Sarai), an inter-school IT competetion.
 
-## Results
+## Results : 
 2nd Position.# ForceFest18
+
+## Contributions : 
+Aditya Dutt
